@@ -33,8 +33,12 @@ Lnkdtogo.shares(["http://someWebSite.com", "http://anotherSite.net"])
 ----
 
 ### Tested with
+[![Build Status](https://travis-ci.org/gregwinn/lnkdtogo.png?branch=master)](https://travis-ci.org/gregwinn/lnkdtogo)
+
 Ruby: 1.9.2
+
 Ruby: 1.9.3
+
 Ruby: 2.0.0
 
 ----
