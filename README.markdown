@@ -3,9 +3,12 @@ This gem is the unofficial gem for using the Lnkdto API service (http://lnkdto.c
 
 [![Gem Version](https://badge.fury.io/rb/ystock.png)](http://badge.fury.io/rb/ystock) [![Code Climate](https://codeclimate.com/github/gregwinn/lnkdtogo.png)](https://codeclimate.com/github/gregwinn/lnkdtogo)
 
-## Install the gem or place it into your Gemfile
+## Install or place into your Gemfile
 ```
 gem "lnkdtogo", "~> 3.2.0"
+```
+```
+gem install lnkdtogo
 ```
 
 ## Configure the service with you API key's
@@ -16,7 +19,7 @@ Lnkdtogo.configure do |config|
 end
 ```
 
-## Request!
+## Usage
 ```ruby
 # Single url
 Lnkdtogo.shares("http://someWebSite.com")
