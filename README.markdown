@@ -1,6 +1,7 @@
 # LnkdtoGo (Unofficial Lnkdto Gem)
 This gem is the unofficial gem for using the Lnkdto API service (http://lnkdto.com/about/api). If you intend to use this gem you will need an account with Lnkdto.
 
+[![Gem Version](https://badge.fury.io/rb/ystock.png)](http://badge.fury.io/rb/ystock) [![Code Climate](https://codeclimate.com/github/gregwinn/lnkdtogo.png)](https://codeclimate.com/github/gregwinn/lnkdtogo)
 
 ## Install the gem or place it into your Gemfile
 ```
