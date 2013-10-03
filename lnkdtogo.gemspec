@@ -2,8 +2,8 @@ Gem::Specification.new do |s|
   s.name        = 'lnkdtogo'
   s.version     = '3.2.0'
   s.date        = '2013-10-01'
-  s.summary     = "This is an unoffical gem for the service Lnkdto.com"
-  s.description = "This is an unoffical gem for the service Lnkdto.com"
+  s.summary     = "Unofficial Lnkdto.com Gem"
+  s.description = "This is an unofficial gem for the service Lnkdto.com"
   s.authors     = ["Greg Winn"]
   s.email       = 'greg@winn.ws'
   s.files       = ["lib/lnkdtogo.rb"]
